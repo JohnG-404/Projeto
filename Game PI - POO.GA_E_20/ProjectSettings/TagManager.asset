@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Checkpoint
+  - GC
+  - Cat
+  - Health
+  - BulletPlayer
+  - ShootEnergy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemies
+  - EnemyBullet
+  - Dead
+  - Traps
+  - Cat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BGs
+    uniqueID: 2137700013
+    locked: 0
+  - name: BG2
+    uniqueID: 1434506721
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ScenariosAndOrnaments
+    uniqueID: 3999684905
+    locked: 0
+  - name: Player
+    uniqueID: 799388563
+    locked: 0
+  - name: Ground
+    uniqueID: 1457328557
+    locked: 0
+  - name: PlatFlot
+    uniqueID: 674014449
+    locked: 0
+  - name: GroundP
+    uniqueID: 1421008317
+    locked: 0

@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: f26940b02ac63024796b9fc6b71f09fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1472426516489993383
+    second: Estalagtites_0
+  - first:
+      213: -1258622043565197914
+    second: Estalagtites_1
+  - first:
+      213: -1076255796721751605
+    second: Estalagtites_2
+  - first:
+      213: 8309759379814200370
+    second: Estalagtites_3
+  - first:
+      213: -3523068039139137478
+    second: Estalagtites_4
+  - first:
+      213: 7213812087691782160
+    second: Estalagtites_5
+  - first:
+      213: 8403371112353295354
+    second: Estalagtites_6
+  - first:
+      213: 4817522240433145703
+    second: Estalagtites_7
+  - first:
+      213: 4093732619214444599
+    second: Estalagtites_8
+  - first:
+      213: -3533248887351807053
+    second: Estalagtites_9
+  - first:
+      213: 562348929874062073
+    second: Estalagtites_10
+  - first:
+      213: 8139026604697977465
+    second: Estalagtites_11
+  - first:
+      213: 4684102159156570560
+    second: Estalagtites_12
+  - first:
+      213: -6441400307190096748
+    second: Estalagtites_13
+  - first:
+      213: -2290939178201521438
+    second: Estalagtites_14
+  - first:
+      213: 8524900384665455815
+    second: Estalagtites_15
+  - first:
+      213: -8433323816929227696
+    second: Estalagtites_16
+  - first:
+      213: 598943533112630781
+    second: Estalagtites_17
+  - first:
+      213: 6633040215037563209
+    second: Estalagtites_18
+  - first:
+      213: -5956432165525293367
+    second: Estalagtites_19
+  - first:
+      213: 7116907365544311561
+    second: Estalagtites_20
+  - first:
+      213: 7666410301882075808
+    second: Estalagtites_21
+  - first:
+      213: -4453439389137623256
+    second: Estalagtites_22
+  - first:
+      213: 1400438249760082127
+    second: Estalagtites_23
+  - first:
+      213: 6123158240926054401
+    second: Estalagtites_24
+  - first:
+      213: -5729348281992426174
+    second: Estalagtites_25
+  - first:
+      213: 7712531927694819412
+    second: Estalagtites_26
+  - first:
+      213: -4480528591555624794
+    second: Estalagtites_27
+  - first:
+      213: -4465916315129485527
+    second: Estalagtites_28
+  - first:
+      213: 1171230478898337400
+    second: Estalagtites_29
+  - first:
+      213: -1434007464638311339
+    second: Estalagtites_30
+  - first:
+      213: 6432097609136100591
+    second: Estalagtites_31
+  - first:
+      213: -1053936648405550912
+    second: Estalagtites_32
+  - first:
+      213: -2009462152253054913
+    second: Estalagtites_33
+  - first:
+      213: -4711947952054025684
+    second: Estalagtites_34
+  - first:
+      213: 100904406362419346
+    second: Estalagtites_35
+  - first:
+      213: -6107991446111632774
+    second: Estalagtites_36
+  - first:
+      213: 523814051744433188
+    second: Estalagtites_37
+  - first:
+      213: 8634018228497981388
+    second: Estalagtites_38
+  - first:
+      213: 2932659151815907080
+    second: Estalagtites_39
+  - first:
+      213: 1568445746107513300
+    second: Estalagtites_40
+  - first:
+      213: 9150186210221997662
+    second: Estalagtites_41
+  - first:
+      213: 3988479303174450822
+    second: Estalagtites_42
+  - first:
+      213: 264313821484285489
+    second: Estalagtites_43
+  - first:
+      213: -3211469303598759053
+    second: Estalagtites_44
+  - first:
+      213: -557433191143341938
+    second: Estalagtites_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Estalagtites_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1536
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84748e9a8a5fcf84ebe7ef36a37e2787
+      internalID: -1472426516489993383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1536
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447247ec0719eb49952945fc4072aeb
+      internalID: -1258622043565197914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1536
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb40168ad542184384b8d989d6326c9
+      internalID: -1076255796721751605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1536
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27b1ec1978ca6a42b37a54b8b50168e
+      internalID: 8309759379814200370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1536
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4259b65995fe4497d1d26727ca4b2
+      internalID: -3523068039139137478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1536
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1158f4f24415387479f63ea23a879502
+      internalID: 7213812087691782160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1536
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c3d159ad06814f92231fb2d00a2cc
+      internalID: 8403371112353295354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1536
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6ee31c75199d469931dd84bcce122
+      internalID: 4817522240433145703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1536
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4820fec9e00da44b5668160998e1d0
+      internalID: 4093732619214444599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1152
+        width: 104
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f938cdb98063004f8369d3c6ce577a2
+      internalID: -3533248887351807053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1152
+        width: 104
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371fdaca3fd205478d9ace95d006ac5
+      internalID: 562348929874062073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1153
+        width: 104
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0a7bdf9bfcfa41a3ba4bca3f41323
+      internalID: 8139026604697977465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1153
+        width: 104
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15de820294b1f24088cb690d8a3c1da
+      internalID: 4684102159156570560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_13
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1152
+        width: 104
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4beb233ecc5874f8180ffa7a4a0d73
+      internalID: -6441400307190096748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1152
+        width: 104
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9eab16cba6917409c2cfadb25a5b5b
+      internalID: -2290939178201521438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 768
+        width: 104
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4cce030d970c549b37cd52c1aee710
+      internalID: 8524900384665455815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02abdc1eeb2d3184eac627bc5f80b262
+      internalID: -8433323816929227696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503690d008367c94fb055ecb2d1bbff0
+      internalID: 598943533112630781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_18
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131687f974d82094e86b7ef0b27c09c3
+      internalID: 6633040215037563209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_19
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90daf738a35681449b2b3ba3adb4afa4
+      internalID: -5956432165525293367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_20
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00a1543900d2fc44a3229c291aeb0a8
+      internalID: 7116907365544311561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 707
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bc77ad50f9b7b459a69d1a8c8857f8
+      internalID: 7666410301882075808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_22
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 756
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a978a13d59ee249abee0b367b051ab
+      internalID: -4453439389137623256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 384
+        width: 104
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b46aa33f334124aa7b780828c2b02d
+      internalID: 1400438249760082127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_24
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 701
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e149d4cecea434541a6282949db5b52c
+      internalID: 6123158240926054401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_25
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 723
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf724a9a5f8e304fb7c2f3ce8cd634c
+      internalID: -5729348281992426174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_26
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 715
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc73b911e32d1b4892876063cf0bf3f
+      internalID: 7712531927694819412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 705
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcff1ac088d8cf49b84052e50c4feeb
+      internalID: -4480528591555624794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_28
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 700
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8597117309f6468535fa77c389771
+      internalID: -4465916315129485527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 104
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bc1156d415cbe408ffc51991e114e0
+      internalID: 1171230478898337400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_30
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 697
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff49d6d6630b94c8eb24662d9e82f9
+      internalID: -1434007464638311339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 675
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508109c94de50984792eaa4a3903512e
+      internalID: 6432097609136100591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 384
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa0c058cb93054b97d0893e6ef894c
+      internalID: -1053936648405550912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_33
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 678
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119bee6128ec87c4e8a1a95c57f3cc8a
+      internalID: -2009462152253054913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_34
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 384
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9160e3171af792439e30a13c94915f0
+      internalID: -4711947952054025684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_35
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 384
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16b8dbfab5c874a9b0cf71e3a700c8
+      internalID: 100904406362419346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_36
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 384
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f94e0b35c84c4b818f9075b13e3e0
+      internalID: -6107991446111632774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 27
+        width: 103
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b67c6154fafae48acafde259066e65
+      internalID: 523814051744433188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 250
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c672a64e596146ac38a2ff9656430
+      internalID: 8634018228497981388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_39
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 226
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f6a8506d0ca8a40845b8feb6e66858
+      internalID: 2932659151815907080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 137
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c410fda6e8cb74d4c8ca50b901272ddd
+      internalID: 1568445746107513300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 144
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627352042de93af4d84cd34c6e44ae36
+      internalID: 9150186210221997662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_42
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 161
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab2550b3f8d0442a78e9a30dfa49fa
+      internalID: 3988479303174450822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_43
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 89
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf68cff946271b14cb6dc4acf0a611f9
+      internalID: 264313821484285489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_44
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2
+        width: 145
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9ff80db52bb9947982841491cc8bb7
+      internalID: -3211469303598759053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estalagtites_45
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 13
+        width: 182
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd51994fc096d4bbee5fb9a3e225a5
+      internalID: -557433191143341938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
